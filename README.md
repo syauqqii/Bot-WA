@@ -1,1 +1,2 @@
-Codenya menyusul.., masih fokus UTS sama bermain genshin impact.
+Besok mulai garap (19/5/23)
+saya cicil dulu :)
