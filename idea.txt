@@ -1,0 +1,30 @@
+=======================================
+Command BOT :
+=======================================
+.done    (admin only)
+.close   (admin only)
+.open    (admin only)
+
+.menu   (group only [all])
+submenu (group only [all])
+=======================================
+
+
+
+=======================================
+Template Message (Done Transaction) :
+=======================================
+*TRANSAKSI BERHASIL*
+
+Tanggal: {dd/mm/yyyy}
+Jam: {hh:mm:ss}
+
+Produk: {product_name}
+Harga: Rp {product_price}
+
+Pembayaran Via: {payment_method}
+Status: SELESAI
+
+Email+Password sudah dikirim,
+Terima Kasih!
+=======================================
